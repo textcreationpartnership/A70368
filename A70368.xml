@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties most gracious declaration to all his loving subjects</title>
+            <author>James II, King of England, 1633-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70368</idno>
+            <idno type="STC">Wing J217A</idno>
+            <idno type="STC">ESTC R1434</idno>
+            <idno type="EEBO-CITATION">13069187</idno>
+            <idno type="OCLC">ocm 13069187</idno>
+            <idno type="VID">97096</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70368)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97096)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 742:46 or 1595:93)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties most gracious declaration to all his loving subjects</title>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at St. Germanies en Laye, April 17th S.N. 1693 ..."</note>
+                  <note>James promises to guarantee rights of Church of England, to uphold Test act, to re-establish the Act of Settlement for Ireland, etc. when he regains power.</note>
+                  <note>Item at reel 742:46 identified as Wing J217.</note>
+                  <note>Reproduction of originals in the Huntington Library and the Society of Antiquaries Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_declaration">
+            <pb facs="tcp:97096:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 32 -->
+            <head>
+               <figure>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QUI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>His Majeſties moſt Gracious Declaration to all his Loving Subjects. <date>
+                  <add>1643</add>
+               </date>
+            </head>
+            <div type="introduction">
+               <opener>
+                  <signed>JAMES R.</signed>
+               </opener>
+               <p>WHereas We are moſt ſenſible that nothing has contributed ſo much to our Misfortunes, and our Peoples Miſeries, as the falſe and malitious Calumnies of our Enemies; Therefore We have always been, and ſtill are moſt willing to condiſcend to ſuch things, as, after mature deliberation, We have thought moſt pro<g ref="char:EOLhyphen"/>per for removing thereof, and moſt likely to give the fulleſt Satisfaction and cleareſt Proſpect of the greateſt Security to all ranks and degrees of our People. And becauſe We deſire rather to be beholding to our Subjects Love to us, then to any other expedient whatever, for our Reſtoration; We have thought ſit to let them know before hand our Royal and ſincere Intentions; and that when ever our Peoples united Deſires, and our Circumſtances give us the opportunity to come and aſſert our Right, We will come with the Declaration that follows.</p>
+               <closer>
+                  <signed>JAMES R.</signed>
+               </closer>
+            </div>
+            <div type="body_of_declaration">
+               <opener>
+                  <signed>JAMES R.</signed>
+               </opener>
+               <p>WHen We reflect upon the Calamities of our Kingdoms, We are not willing to leave any thing un<g ref="char:EOLhyphen"/>attempted whereby We may reconcile our Subjects to their Duty. And tho' we cannot enter into all the particulars of Grace and Goodneſs, which we ſhall be willing to grant, yet We do hereby aſſure all our Loving Subjects, that they may depend upon every thing that their own Repreſentatives ſhall offer, to make our Kingdoms happy. For we have ſet it before our Eyes, as our Nobleſt Aim, to do yet more for their Conſtitution, than the moſt renowned of our Anceſtors; And, as our chiefeſt Intereſt, to leave no umbrage for Jealouſie, in relation to Religion, Liberty, and Property.</p>
+               <p>And to encourage all our Loving Subjects, of what degree or quality ſoever, to ſet their Hearts and Hands to the perfecting of ſo good a Work, and to unite themſelves in this only means of Eſtabliſhing the future Peace and Proſperity of theſe Kingdoms, We have thought fit to publiſh and declare; That on our part, We are ready and willing wholly to lay aſide all thoughts of Animoſity or Reſentment for what is paſt; de<g ref="char:EOLhyphen"/>ſiring nothing more then that it ſhould be buried in perpetual Oblivion; And do therefore by this our De<g ref="char:EOLhyphen"/>claration, under our Great Seal, ſolemnly promiſe our Free Pardon and Indemnity to all our Loving Subjects, of what degree or quality ſoever, who ſhall not by Land or Sea oppoſe Us and thoſe We ſhall think neceſſary to accompany our own Perſon, in this juſt attempt to recover our Right; Or (in ſuch a number of days after our Landing, as We ſhall hereafter expreſs) ſhall not reſiſt them who in any part of our Dominions ſhall ac<g ref="char:EOLhyphen"/>cording to their Duty aſſert and maintain the Juſtice of our Cauſe: Beſeeching God to incline the Hearts of our People that all effuſion of <gap reason="illegible: damage" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap>d may be prevented, and Righteouſneſs and Mercy take place. And for that end, We further promiſe <gap reason="illegible: damage" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſuch as ſhall <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome to, and aſſiſt us, that <gap reason="illegible: damage" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will reward them accord<g ref="char:EOLhyphen"/>ing to their reſpective Degrees <gap reason="illegible: damage" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Merits.</p>
+               <p>We do further declare th<gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t We will, with all ſpeed, call together the Repreſentative Body of our Kingdom; And therein will Inform our ſelves what are the u<gap reason="illegible: damage" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ed Intereſts, and Inclinations of our People; And with their concurrence will be ready to redreſs all their Grievances, and give all thoſe Securities of which they ſhall ſtand in need.</p>
+               <p>We likewiſe declare, upon our Royal Word, that We will protect and defend the Church of <hi>England,</hi> as it is now eſtabliſhed by Law; And ſecure to the Members of it, all the Churches, Univerſities, Colledges, and Schools, together with their Immunities, Rights, and Priviledges.</p>
+               <p>We alſo declare, We will with all earneſtneſs, recommend to that Parliament ſuch an impartial Liberty of Conſcience, as they ſhall think neceſſary for the Happineſs of theſe Nations</p>
+               <p>We further declare, We will not diſpenſe with, or violate the Teſt. And, as for the diſpenſing power in other matters, We leave it to be explained and limitted by that Parliament.</p>
+               <p>We declare alſo, that We will give our Royal aſſent to all ſuch Bills as are neceſſary to ſecure the frequent calling and holding of Parliaments; The free Elections, and fair Returns of Members; And provide for im<g ref="char:EOLhyphen"/>partial Tryals: And that We will ratifie and confirm all ſuch Laws, made under the preſent Uſurpation, as ſhall be tendered to us by that parliament.</p>
+               <p>And in that Parliament We will alſo conſent to every thing they ſhall think neceſſary to re-eſtabliſh the late Act of Settlement of <hi>Ireland,</hi> made in the Reign of our Deareſt Brother; And will adviſe with them, how 02 to recompence ſuch of that Nation as have followed us to the laſt, and who may ſuffer by the ſaid Re<g ref="char:EOLhyphen"/>eſtabliſhment, according to the degree of their Sufferings thereby; Yet ſo as that the ſaid Act of Settle<g ref="char:EOLhyphen"/>ment may always remain intire.</p>
+               <p>And, if Chimny-Money, or any other part of the Revenue of the Crown, has been burthenſome to our Subjects, We ſhall be ready to exchange it, for any other Aſſeſment that ſhall be thought more eaſie.</p>
+               <p>Thus We have ſincerely declared our Royal Intentions, in terms we think neceſſary, for ſetling our Sub<g ref="char:EOLhyphen"/>jects minds; and according to the advice and intimations We have received, from great numbers of our Lo<g ref="char:EOLhyphen"/>ving Subjects, of all ranks and degrees, who have adjuſted the manner of our comming to regain our own Right, and to relieve our People from Oppreſſion and Slavery.</p>
+               <p>After this, We ſuppoſe it will not be neceſſary to enumerate the Tyrannical Violations, and Burthens, with which our Kingdoms have been oppreſſed, and are now like to be deſtroyed.</p>
+               <p>And whereas our Enemies endeavour to aſſright our Subjects, with the apprehenſions of great Sums which muſt be repaid to <hi>France;</hi> We poſitively aſſure them, that our Deareſt Brother the Mo<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <hi>Chriſtan King</hi> expects no other Compenſation for what he has done for us, than meerly the glory of having Succor'd an injur'd Prince.</p>
+               <p>We only add, that We come to vindicate our own Right, and to eſtabliſh the Liberties of our People. And may GOD give us Succeſs in the proſecution of the one, as We Sincerely intend the Confirmation of the other.</p>
+            </div>
+            <closer>
+               <signed>JAMES R.</signed>
+               <dateline>Given at St. <hi>Germanies en Laye,</hi> 
+                  <date>April 17th <hi>S. N.</hi> 1693. And in the Ninth Year of Our Regin.</date>
+               </dateline>
+               <lb/>
+God Save the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
